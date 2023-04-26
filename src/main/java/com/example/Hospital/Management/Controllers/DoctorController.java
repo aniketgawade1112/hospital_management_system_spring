@@ -1,5 +1,6 @@
-package com.example.Hospital.Management;
+package com.example.Hospital.Management.Controllers;
 
+import com.example.Hospital.Management.models.Doctor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

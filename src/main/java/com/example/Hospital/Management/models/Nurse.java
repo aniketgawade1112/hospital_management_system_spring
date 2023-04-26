@@ -1,4 +1,4 @@
-package com.example.Hospital.Management;
+package com.example.Hospital.Management.models;
 
 public class Nurse {
 

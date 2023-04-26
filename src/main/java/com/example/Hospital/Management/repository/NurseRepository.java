@@ -1,6 +1,7 @@
-package com.example.Hospital.Management;
+package com.example.Hospital.Management.repository;
 
 
+import com.example.Hospital.Management.models.Nurse;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;

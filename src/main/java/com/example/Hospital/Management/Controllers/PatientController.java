@@ -1,5 +1,6 @@
-package com.example.Hospital.Management;
+package com.example.Hospital.Management.Controllers;
 
+import com.example.Hospital.Management.models.Patient;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
